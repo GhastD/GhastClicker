@@ -3,6 +3,8 @@
 
 ---
 
+<h1 id="welcome-to-ghastclicker">INFO! THIS IS OUTDATED AND WAS JUST A BEGINNER PROJECT WHEN I STARTED</h1>
+
 <h1 id="welcome-to-ghastclicker">Welcome to GhastClicker!</h1>
 <p>Heyo. I’m Ghast, a 15 year old developer, and your watching Disney channel. Today on the news we’ve got this project that I’m currently working on. This is my first project on C++ hence why my code is absolute shit, but it’s great learning to have such community</p>
 <h1 id="features">Features</h1>
